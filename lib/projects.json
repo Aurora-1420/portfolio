@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Fat and Happy",
+        "year": 2026,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "This project uses two datasets that contain recipes and ratings food.com (recipes and interactions datasets). "
+    },
+    {
+        "title": "LocalLens",
+        "year": 2026,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Local Lens is a data engineering and analytics project designed to transform raw Google Reviews data into actionable business intelligence. "
+    },
+    {
+        "title": "Cogs 108 Project",
+        "year": 2026,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Is there a linear relationship between a reviewer's activity level and how helpful other people believe their votes are?"
+    },
+    {
+        "title": "Twitter Trends",
+        "year": 2024,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "A tool that analyzes tweets (X Posts) to identify trending words and popular posts. "
+    },
+    {
+        "title": "Mini-Git",
+        "year": 2024,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed a simple version control system (inspired by Git) that manages metadata with repositories and commits, giving users the ability to track the statistics of their repositories, commit, and synchronize several repositories together. "
+    },
+    {
+        "title": "ELIZA-LIKE",
+        "year": 2025,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Implemented a rule-based natural language processing system inspired by the original ELIZA program."
+    },
+    {
+        "title": "Absurdle",
+        "year": 2024,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Implementation of Absurdle, a version of Wordle. Concepts used: Data Structures (Maps and Sets)"
+    },
+    {
+        "title": "Program-Linting",
+        "year": 2023,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Developed a software tool for Java style debugging (program linter), checking for long lines and unnecessary (blank) print statements. Designed for better readability and more consistent formatting."
+    },
+    {
+        "title": "Filler Project 1",
+        "year": 2029,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "I made a rocket."
+    },
+    {
+        "title": "Filler Project 2",
+        "year": 2030,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "I sent a dude to space."
+    },
+    {
+        "title": "Filler Project 3",
+        "year": 2040,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "The rocket came back."
+    },
+    {
+        "title": "Filler Project 4",
+        "year": 2050,
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "The guy who came back from space aged 10000 years."
+    }
+]
