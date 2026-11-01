@@ -18,7 +18,7 @@
         "description": "Is there a linear relationship between a reviewer's activity level and how helpful other people believe their votes are?"
     },
     {
-        "title": "Twitter Trends",
+        "title": "X Trends",
         "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "A tool that analyzes tweets (X Posts) to identify trending words and popular posts. "
