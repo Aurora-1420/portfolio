@@ -114,12 +114,16 @@ export function renderProjects(projects, containerElement, headingLevel = 'h2') 
 
   for (const project of projects) {
     const article = document.createElement('article');
+    const imageSrc = project.image.startsWith('http')
+      ? project.image
+      : `${BASE_PATH}${project.image}`;
     article.innerHTML = `
       <${headingLevel}>${project.title}</${headingLevel}>
-      <img src="${project.image}" alt="${project.title}">
+      <img src="${imageSrc}" alt="${project.title}">
       <div>
         <p>${project.description}</p>
         <p>${project.year}</p>
+        ${project.url ? `<p><a href="${project.url}" target="_blank" rel="noopener noreferrer">View project</a></p>` : ''}
       </div>
     `;
     containerElement.appendChild(article);

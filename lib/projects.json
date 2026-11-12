@@ -1,74 +1,93 @@
 [
     {
+        "title": "Boston Bike Traffic",
+        "year": 2026,
+        "image": "images/boston-bike-traffic.png",
+        "description": "An interactive visualization of bike traffic in the Boston area.",
+        "url": "https://aurora-1420.github.io/bikewatching/"
+    },
+    {
         "title": "Fat and Happy",
         "year": 2026,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "This project uses two datasets that contain recipes and ratings food.com (recipes and interactions datasets). "
+        "description": "This project uses two datasets that contain recipes and ratings food.com (recipes and interactions datasets). ",
+        "url": ""
     },
     {
         "title": "LocalLens",
         "year": 2026,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Local Lens is a data engineering and analytics project designed to transform raw Google Reviews data into actionable business intelligence. "
+        "description": "Local Lens is a data engineering and analytics project designed to transform raw Google Reviews data into actionable business intelligence. ",
+        "url": ""
     },
     {
         "title": "Cogs 108 Project",
         "year": 2026,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Is there a linear relationship between a reviewer's activity level and how helpful other people believe their votes are?"
+        "description": "Is there a linear relationship between a reviewer's activity level and how helpful other people believe their votes are?",
+        "url": ""
     },
     {
         "title": "X Trends",
         "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "A tool that analyzes tweets (X Posts) to identify trending words and popular posts. "
+        "description": "A tool that analyzes tweets (X Posts) to identify trending words and popular posts. ",
+        "url": ""
     },
     {
         "title": "Mini-Git",
         "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Developed a simple version control system (inspired by Git) that manages metadata with repositories and commits, giving users the ability to track the statistics of their repositories, commit, and synchronize several repositories together. "
+        "description": "Developed a simple version control system (inspired by Git) that manages metadata with repositories and commits, giving users the ability to track the statistics of their repositories, commit, and synchronize several repositories together. ",
+        "url": ""
     },
     {
         "title": "ELIZA-LIKE",
         "year": 2025,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Implemented a rule-based natural language processing system inspired by the original ELIZA program."
+        "description": "Implemented a rule-based natural language processing system inspired by the original ELIZA program.",
+        "url": ""
     },
     {
         "title": "Absurdle",
         "year": 2024,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Implementation of Absurdle, a version of Wordle. Concepts used: Data Structures (Maps and Sets)"
+        "description": "Implementation of Absurdle, a version of Wordle. Concepts used: Data Structures (Maps and Sets)",
+        "url": ""
     },
     {
         "title": "Program-Linting",
         "year": 2023,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Developed a software tool for Java style debugging (program linter), checking for long lines and unnecessary (blank) print statements. Designed for better readability and more consistent formatting."
+        "description": "Developed a software tool for Java style debugging (program linter), checking for long lines and unnecessary (blank) print statements. Designed for better readability and more consistent formatting.",
+        "url": ""
     },
     {
         "title": "Filler Project 1",
         "year": 2029,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "I made a rocket."
+        "description": "I made a rocket.",
+        "url": ""
     },
     {
         "title": "Filler Project 2",
         "year": 2030,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "I sent a dude to space."
+        "description": "I sent a dude to space.",
+        "url": ""
     },
     {
         "title": "Filler Project 3",
         "year": 2040,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "The rocket came back."
+        "description": "The rocket came back.",
+        "url": ""
     },
     {
         "title": "Filler Project 4",
         "year": 2050,
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "The guy who came back from space aged 10000 years."
+        "description": "The guy who came back from space aged 10000 years.",
+        "url": ""
     }
 ]
